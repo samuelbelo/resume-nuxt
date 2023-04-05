@@ -1,6 +1,6 @@
 <template>
     <div class="container hero min-h-screen max-w-full">
-        <div class="hero-content text-center mt--10 mt-[-300px]">
+        <div class="hero-content text-center mt--10 mt-[-100px]">
             <div>
                 <div class="">
                     <nuxt-img src="/images/IMG_2451.jpeg" class="image-full avatar rounded-full w-44"
